@@ -12,6 +12,7 @@ Ce projet est un calculateur d'apport calorique journalier. Il vous aide à dét
 
 - HTML
 - CSS
+- SCSS
 - JavaScript
 
 ## Auteur 👤
