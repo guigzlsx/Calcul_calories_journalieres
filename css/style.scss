@@ -63,7 +63,8 @@ body {
   margin-top: 20px;
   font-size: 18px;
   text-align: center;
-  background-color: white;
+  background-color: rgb(248, 95, 39);
+  color: white;
   border-radius: 16px;
   padding: 20px;
 }
@@ -76,7 +77,7 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 10px;
-  background-color:  hsl(217, 25%, 90%);
+  background-color: hsl(217, 25%, 90%);
   opacity: 0.8;
 
   .logo {
@@ -91,7 +92,7 @@ body {
   }
 
   .links {
-    margin-right: 20px; 
+    margin-right: 20px;
 
     a {
       color: black;
